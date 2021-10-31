@@ -1,0 +1,10 @@
+Bill of Material
+
+1x 3/4inch PEX tubing
+1x 5 meter 12v WS2812B LED strip
+2x 4 foot Vigaro Garden Stakes
+1x Arduino Nano
+1x 12v 8A power supply
+1x barrel adaptor
+1x 1000 µF Capacitor
+1x half size perma-protoboard
