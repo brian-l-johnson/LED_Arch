@@ -1,6 +1,6 @@
 # LED_Arch
 
-##Instructions:
+## Instructions:
 See BOM.txt for part list
 1. Cut PEX tubing to length
 2. Thread string through PEX tubing, a vacuum can help pull it through
